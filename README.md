@@ -1,7 +1,7 @@
 # Radial Menu Overlay
 
 ## Description
-AI generated code for windows application that displays a fully transparent, click-through radial overlay.
+AI generated code for windows that displays a fully transparent, click-through radial overlay.
 
 https://github.com/user-attachments/assets/0f695547-a939-4532-99a3-a3129f119056
 
